@@ -22,9 +22,4 @@ Um projeto simples em **HTML e JavaScript** que permite gerar a tabuada de um n�
 2. 🌐 Abra o arquivo `index.html` em qualquer navegador moderno.  
 3. ✏️ Digite o número desejado no campo e clique em "Mostrar Tabuada".  
 
-## 🌐 Como usar online (GitHub Pages)
-1. Acesse o link do GitHub Pages do repositório:
-2. 🌟 O site abrirá diretamente o arquivo `index.html`.  
-3. ✏️ Digite um número e veja sua tabuada aparecer na tela.
-
 ---
