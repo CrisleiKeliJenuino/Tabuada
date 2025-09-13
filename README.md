@@ -7,7 +7,8 @@ Um projeto simples em **HTML e JavaScript** que permite gerar a tabuada de um n�
 ## 🚀 Funcionalidades
 - 📝 Digite um número e veja sua tabuada de 1 a 10.  
 - 🧹 Campo de entrada limpa automaticamente após gerar a tabuada.  
-- 🔗 Links para outros arquivos/tabuadas, caso existam.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 - 🌐 HTML  
